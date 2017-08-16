@@ -1,1 +1,2 @@
-# if.03.01-04_coding-assignment1
+# IF.03.01-03 Basic Web Techniques - Project Overview
+This coding assignment shall make you practice all concepts we have learned so far. Make sure that you read the section *Required Tasks*  in [ReadingAssignment.md](ReadingAssignment.md) carefully and to complete all the tasks listed there.
