@@ -38,6 +38,7 @@ Furthermore you may require your cheat sheets you have prepared so far or you co
 ## Things to Learn
 - Using basic Html and Css
 - Structuring a mid-sized text with Html
+- Styling a mid-sized text with css
 
 ## Evaluation
 All coding assignments will get checked. Most common reasons that your assignment is marked down are:
@@ -45,5 +46,7 @@ All coding assignments will get checked. Most common reasons that your assignmen
 - Project's Html pages do not validate
 - One or more items in the *Required Tasks* section are not satisfied
 - Submitted code is visually sloppy and hard to read
+
+Finally check the [Rubrics](Rubrics.md) (Units 1 to 3 and "All" at the end of the table) to remember which criteria we use when checking your code.
 
 ## Extra Credit
