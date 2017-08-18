@@ -24,7 +24,7 @@ Furthermore you may require your cheat sheets you have prepared so far or you co
    - Take care of a good structure. Use lists, tables and other structuring Html elements to make your document easy to read and to understand.
    - Add images to illustrate your intents.
 2. Validate your Html code.
-3. Check your Html code whether it is properly layouted. Take care of proper indentation
+3. Check your Html code whether it is properly formatted. Take care of proper indentation
 3. Style your document
    - Take care to use different styling elements for fonts, text, backgrounds, lists, tables, etc.
 
@@ -50,3 +50,39 @@ All coding assignments will get checked. Most common reasons that your assignmen
 Finally check the [Rubrics](Rubrics.md) (Units 1 to 3 and "All" at the end of the table) to remember which criteria we use when checking your code.
 
 ## Extra Credit
+Check out the page about [counters](https://www.w3schools.com/css/css_counters.asp) to make your document numbering its sections automatically. Consider the following snippet of html code.
+
+```html
+<article>
+  <h1>Web Techniques</h1>
+  <section>
+    <h2>History</h2>
+    <section>
+      <h2>Early Years</h2>
+      <p>Web started ...</p>
+    </section>
+    <section>
+      <h2>Going Dynamic</h2>
+      <p>...</p>
+    </section>
+  </section>
+  <section>
+    <h2>Important Contributors</h2>
+    <dl>
+      ...
+    </dl>
+  </section>
+</article>
+```
+
+The rendered page should then have its sections as follows:
+### Web Techniques
+#### 1 History
+##### 1.1 Early Years
+Web started ...
+##### 1.2 Going Dynamic
+...
+#### 2 Important Contributors
+...
+
+The concrete layout is of course a matter of your creativity. The point to get the extra credit is to get the numbering fixed.
