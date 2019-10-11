@@ -1,0 +1,15 @@
+body {
+  font-famiy: Arial, sans-serif;
+}
+
+article > h1 {
+  color:red;
+}
+
+article > section > h1 {
+  color:blue;
+}
+
+h1 + p {
+  font-weight: bold;
+}
