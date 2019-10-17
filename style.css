@@ -11,17 +11,6 @@ img{
   margin-right: auto;
 }
 
-#navigation{
-  height: 20px;
-  width: 100%;
-
-  background-color: #d24646;
-}
-
-nav{
-  text-align: center;
-}
-
 a{
   text-decoration: none;
   color: black;
