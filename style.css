@@ -18,6 +18,10 @@ a{
   padding-left: 10px;
 }
 
+section > h3 > p{
+    text-align: center;
+}
+
 a:hover{
     color: #91d3de;
 }
@@ -41,16 +45,16 @@ a{
   text-align: center;
 }
 
-section > p{
+section > article > p{
   text-align: center;
 }
 
-section > h2{
+section > article > h2{
   text-decoration: underline;
   text-align: center;
 }
 
-section > h3{
+section > article > h3{
   text-decoration: underline;
   text-align: center;
 }
